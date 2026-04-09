@@ -1,0 +1,1 @@
+I have created this Repo to journal everything through my learning process
