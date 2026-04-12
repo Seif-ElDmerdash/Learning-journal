@@ -8,4 +8,6 @@ Finally, I took rest today after an exessive week of planing and scheduling. I r
 
 
 I finished today Lecture 6 in Physics course of the University and Solved its Assignment.
-I changed few things in my studying plan as the C++ final project has been announced and its deadline is on 16th May, which is the reason for the changes. I now need to pause advanced python learning and keep only the Rosiland exersices. I need to put my focus on the final project requirements. 
+I changed few things in my studying plan as the C++ final project has been announced and its deadline is on 16th May, which is the reason for the changes. I now need to pause advanced python learning and keep only the Rosiland exersices. I need to put my focus on the final project requirements.
+
+I have just finished Loops Lecture, I can call it a day.
