@@ -3,3 +3,7 @@ Today was a productive day. I applied to the Selection lecture, and I went throu
 I solved 2 easy problems, 5 medium, and 2 hard. Hard problems were challenging. I managed to solve the first one smoothly, but the second one was complicated until I found the solution, which was 5 lines of code. "It was very tricky!"
 
 Good News, I learned a new approach for writing conditions. Instead of If(condition) result+=n; , result+= (condition*n). This approach saved the code from being enormously huge!
+
+I applied on While-loops and For-loops, solved the easy assignment of While-loops (5 problems) and the practice problems of the For-loops (3 decent problems) + I solved the While-loops practice problems in For-loops logic (4 problems).
+
+I solved While-loops Medium assignment (4 Problems "First one considered actually hard, but It was just there") + 2 Problems in Hard assignment.
