@@ -7,3 +7,6 @@ Good News, I learned a new approach for writing conditions. Instead of If(condit
 I applied on While-loops and For-loops, solved the easy assignment of While-loops (5 problems) and the practice problems of the For-loops (3 decent problems) + I solved the While-loops practice problems in For-loops logic (4 problems).
 
 I solved While-loops Medium assignment (4 Problems "First one considered actually hard, but It was just there") + 2 Problems in Hard assignment.
+
+I solved lab task 5 in the university it was about the intro of classes.
+I solve the last 2 Hard problems in the While-loops assignment, and I solved the 4 Medium problems in the For-loops assignment.

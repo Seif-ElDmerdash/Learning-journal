@@ -19,3 +19,6 @@ I attended the discrete lecture. It was about Matrices, Prime number and Euclide
 **Day 4**
 I applied on C++ loops.
 I enrolled in Mckinsey Forward course and finished Week 1 + I Registered in The Welcome Cermony (the optional webinar).
+
+**Day 5**
+An exhausting day. I barely solved some problems. It took me a lot to solve them, and I was complicating things unconsciously.
