@@ -25,3 +25,7 @@ An exhausting day. I barely solved some problems. It took me a lot to solve them
 
 **Day 6**
 Didn't do much today, Most of the day at the university. I attended a discrete tutorial solved some questions. Solved literally a single problem in cpp a hard one and that is it.
+
+**Day 7**
+Rest. Regenerating. Refreshing. 
+Exercising. Football.
