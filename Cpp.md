@@ -12,3 +12,7 @@ I solved lab task 5 in the university it was about the intro of classes.
 I solve the last 2 Hard problems in the While-loops assignment, and I solved the 4 Medium problems in the For-loops assignment.
 
 Solved the 2 Medium problems that I was struggling with yesterday again + I solved 1 hard problem out the 4 in about 20>= min which is GREAT!. 
+
+I solved 2 Hard problems from the for loops assignment yesterday.
+
+Today I solved the last hard problem.

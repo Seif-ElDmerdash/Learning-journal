@@ -29,3 +29,11 @@ Didn't do much today, Most of the day at the university. I attended a discrete t
 **Day 7**
 Rest. Regenerating. Refreshing. 
 Exercising. Football.
+
+*Week 3*
+**Day 1**
+I attended the discrete lecture. I got home late, so I tried to solve C++ prblems. I solved 2, then I went to play football again.
+
+**Day 2** 
+I was at the unversity since 8:30 AM till 4:30 PM I took physics(tut), csc103(tut) and discrete (tut).
+I got back home and solved finally the last problem in the loops assignment + their test cases.
