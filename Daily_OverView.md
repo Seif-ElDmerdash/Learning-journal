@@ -37,3 +37,6 @@ I attended the discrete lecture. I got home late, so I tried to solve C++ prblem
 **Day 2** 
 I was at the unversity since 8:30 AM till 4:30 PM I took physics(tut), csc103(tut) and discrete (tut).
 I got back home and solved finally the last problem in the loops assignment + their test cases.
+
+**Day 3**
+I was at the unversity since 8:30 AM till 4:30 PM again, I took Calculus 1(tut), Biochemistry (lab) and C++ (lecture). I got home at 6:00 PM. I solved only the discrete assignment.
