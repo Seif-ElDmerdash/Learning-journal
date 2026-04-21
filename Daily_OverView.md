@@ -40,3 +40,6 @@ I got back home and solved finally the last problem in the loops assignment + th
 
 **Day 3**
 I was at the unversity since 8:30 AM till 4:30 PM again, I took Calculus 1(tut), Biochemistry (lab) and C++ (lecture). I got home at 6:00 PM. I solved only the discrete assignment.
+
+**Day 4**
+I learned L'Hospital rule, Maclaurin & Taylor series and applied on them + solved L'Hospital and Maclaurin assingments.
