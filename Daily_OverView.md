@@ -43,3 +43,6 @@ I was at the unversity since 8:30 AM till 4:30 PM again, I took Calculus 1(tut),
 
 **Day 4**
 I learned L'Hospital rule, Maclaurin & Taylor series and applied on them + solved L'Hospital and Maclaurin assingments.
+
+**Day 5**
+I had 2 C++ quizzes today at the university. I solved 10 practice quizzes on calculus 1, because I have a quiz tomorrow. Nothing more nothing less.
