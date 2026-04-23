@@ -46,3 +46,6 @@ I learned L'Hospital rule, Maclaurin & Taylor series and applied on them + solve
 
 **Day 5**
 I had 2 C++ quizzes today at the university. I solved 10 practice quizzes on calculus 1, because I have a quiz tomorrow. Nothing more nothing less.
+
+**Day 6**
+I have taken the calculus quiz and I got the full mark. I took a discrete lecture, it was about types of functions, types of sequences and how to get the general formula for patterns.
