@@ -49,3 +49,6 @@ I had 2 C++ quizzes today at the university. I solved 10 practice quizzes on cal
 
 **Day 6**
 I have taken the calculus quiz and I got the full mark. I took a discrete lecture, it was about types of functions, types of sequences and how to get the general formula for patterns.
+
+**Day 7**
+Resting. Regenrating. Refreshing.
