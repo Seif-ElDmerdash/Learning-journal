@@ -52,3 +52,7 @@ I have taken the calculus quiz and I got the full mark. I took a discrete lectur
 
 **Day 7**
 Resting. Regenrating. Refreshing.
+
+*Week 4*
+**Day 1**
+I have solved the Assignment 7 and 8 in physics. I revised for the discrete quiz tomorrow.
