@@ -16,3 +16,5 @@ Solved the 2 Medium problems that I was struggling with yesterday again + I solv
 I solved 2 Hard problems from the for loops assignment yesterday.
 
 Today I solved the last hard problem.
+
+I have worked on the C++ project Today. I have made the Classes, which are the core of the program. I have made two classes the Movie Class and the Seat Class.

@@ -56,3 +56,6 @@ Resting. Regenrating. Refreshing.
 *Week 4*
 **Day 1**
 I have solved the Assignment 7 and 8 in physics. I revised for the discrete quiz tomorrow.
+
+**Day 2**
+I have taken the discrete quiz. I and my colleuges have planned the C++ Projects outlines. We distributed the work as well. I finished working on my part. 
