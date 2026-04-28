@@ -1,8 +1,8 @@
-**Intro**
+## Intro
 I have created this Repo to journal everything through my learning process
-I have created 3 new Repositories 1 for Journaling 1 for Python 1 The semester project and I already had an exixsting Repo for my C++ learning journey.
+I have created 3 new Repositories 1 for Journaling 1 for Python 1 for The semester project and I already had an exixsting Repo for my C++ learning journey.
 
-*Week 2*
+## *Week 2*
 **Day 1**
 Finally, I took rest today after an exessive week of planing and scheduling. I read a lttle bit. Also, I found a book for Python which is going to be something in the list. Good day full of clean dopamine.
 
@@ -30,7 +30,7 @@ Didn't do much today, Most of the day at the university. I attended a discrete t
 Rest. Regenerating. Refreshing. 
 Exercising. Football.
 
-*Week 3*
+## *Week 3*
 **Day 1**
 I attended the discrete lecture. I got home late, so I tried to solve C++ prblems. I solved 2, then I went to play football again.
 
@@ -53,9 +53,15 @@ I have taken the calculus quiz and I got the full mark. I took a discrete lectur
 **Day 7**
 Resting. Regenrating. Refreshing.
 
-*Week 4*
+## *Week 4*
 **Day 1**
 I have solved the Assignment 7 and 8 in physics. I revised for the discrete quiz tomorrow.
 
 **Day 2**
-I have taken the discrete quiz. I and my colleuges have planned the C++ Projects outlines. We distributed the work as well. I finished working on my part. 
+I have taken the discrete quiz. I and my colleuges have planned the C++ Projects outlines. We distributed the work as well. I finished working on my part.
+
+**Day 3**
+I have worked on the project and did my task, which was making the base classes for the movie ticket reservation. Movie class,Seat class, Regular_seat class and VIP_seat class. regular and VIP inherits from Seat.
+
+**Day 4**
+I have taken the 1D Array and applied on its practice problems.
