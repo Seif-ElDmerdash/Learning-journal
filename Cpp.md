@@ -36,3 +36,7 @@ I have worked on the C++ project Today. I have made the Classes, which are the c
 I reviewed the code yesterday after my colleuges integerated there work.
 
 I have taken the 1D Array lecture and I have practiced on its practice problems. I took a new solving technique, which the frequency array.
+
+## 2026-04-29
+
+I solved the lab task at the university, which was about making a pointer array, then make a function that prints only the even numbers in that array.
