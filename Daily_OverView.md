@@ -68,3 +68,6 @@ I have taken the 1D Array and applied on its practice problems.
 
 **Day 5**
 I have finished my task in the Final lab project in Biochemistry, Using DrugBank, UniProt, Ensembl and Reactome.
+
+**Day 6**
+I have finished my part on Histone Modification for the biochemistry lecture project. As the leader for both the lab and lecture teams, I have also finished assigning everyone their tasks and outlining the next steps for the project.
