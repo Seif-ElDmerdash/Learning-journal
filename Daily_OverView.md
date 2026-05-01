@@ -3,6 +3,7 @@ I have created this Repo to journal everything through my learning process
 I have created 3 new Repositories 1 for Journaling 1 for Python 1 for The semester project and I already had an exixsting Repo for my C++ learning journey.
 
 ## *Week 2*
+
 **Day 1**
 Finally, I took rest today after an exessive week of planing and scheduling. I read a lttle bit. Also, I found a book for Python which is going to be something in the list. Good day full of clean dopamine.
 
@@ -31,6 +32,7 @@ Rest. Regenerating. Refreshing.
 Exercising. Football.
 
 ## *Week 3*
+
 **Day 1**
 I attended the discrete lecture. I got home late, so I tried to solve C++ prblems. I solved 2, then I went to play football again.
 
@@ -54,6 +56,7 @@ I have taken the calculus quiz and I got the full mark. I took a discrete lectur
 Resting. Regenrating. Refreshing.
 
 ## *Week 4*
+
 **Day 1**
 I have solved the Assignment 7 and 8 in physics. I revised for the discrete quiz tomorrow.
 
@@ -71,3 +74,6 @@ I have finished my task in the Final lab project in Biochemistry, Using DrugBank
 
 **Day 6**
 I have finished my part on Histone Modification for the biochemistry lecture project. As the leader for both the lab and lecture teams, I have also finished assigning everyone their tasks and outlining the next steps for the project.
+
+**Day 7**
+Resting. Regenrating. Refreshing.
