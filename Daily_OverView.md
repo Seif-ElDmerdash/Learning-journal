@@ -77,3 +77,9 @@ I have finished my part on Histone Modification for the biochemistry lecture pro
 
 **Day 7**
 Resting. Regenrating. Refreshing.
+
+## *Week 5*
+
+**Day 1**
+Today's Discrete Math lecture on Relations was actually really interesting!
+On the C++ project front, my colleagues have wrapped up their tasks by building out the baseline functions and classes. I’ve merged everything together and started tackling the main function. Unfortunately, to get our specific logic working, almost all of those baseline functions need to be altered. I’ve chipped away at it and made some good progress, but it still needs a lot of work before it's fully functional.
