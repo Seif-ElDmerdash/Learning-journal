@@ -83,3 +83,9 @@ Resting. Regenrating. Refreshing.
 **Day 1**
 Today's Discrete Math lecture on Relations was actually really interesting!
 On the C++ project front, my colleagues have wrapped up their tasks by building out the baseline functions and classes. I’ve merged everything together and started tackling the main function. Unfortunately, to get our specific logic working, almost all of those baseline functions need to be altered. I’ve chipped away at it and made some good progress, but it still needs a lot of work before it's fully functional.
+
+**Day 2**
+I took a physics quiz, then I started looking at the discrete reference to understand the graphs topic so I can start working on the project.
+
+**Day 3**
+I have got prepared for the physics lab Exam tomorrow. I have finished Graphs & Graph Models module (10.1) in Discrete Math.
