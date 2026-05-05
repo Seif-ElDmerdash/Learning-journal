@@ -53,7 +53,7 @@ I had 2 C++ quizzes today at the university. I solved 10 practice quizzes on cal
 I have taken the calculus quiz and I got the full mark. I took a discrete lecture, it was about types of functions, types of sequences and how to get the general formula for patterns.
 
 **Day 7**
-Resting. Regenrating. Refreshing.
+Resting. Regenerating. Refreshing.
 
 ## *Week 4*
 
@@ -76,7 +76,7 @@ I have finished my task in the Final lab project in Biochemistry, Using DrugBank
 I have finished my part on Histone Modification for the biochemistry lecture project. As the leader for both the lab and lecture teams, I have also finished assigning everyone their tasks and outlining the next steps for the project.
 
 **Day 7**
-Resting. Regenrating. Refreshing.
+Resting. Regenerating. Refreshing.
 
 ## *Week 5*
 
@@ -89,3 +89,6 @@ I took a physics quiz, then I started looking at the discrete reference to under
 
 **Day 3**
 I have got prepared for the physics lab Exam tomorrow. I have finished Graphs & Graph Models module (10.1) in Discrete Math.
+
+**Day 4**
+I have taken the physics Final lab exam, I got the full mark. I have started the McKinsey Adaptability & Resilience Module.
