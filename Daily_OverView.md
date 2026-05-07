@@ -95,3 +95,6 @@ I have taken the physics Final lab exam, I got the full mark. I have started the
 
 **Day 5**
 Today was an absolute marathon, but I honestly survived it. I was on campus for twelve straight hours—from 8:30 AM all the way to 8:30 PM. Despite the exhaustion, it was an incredibly productive day. I managed to knock out Modules 10.2.2 and 10.2.3 in Graph Theory. The biggest win, though, was finally having that "aha" moment with my code: everything clicked, and I actually understand how pointers are used alongside dynamic memory allocation. It was an exhausting grind, but a really rewarding one.
+
+**Day 6**
+Today was a productive day of both personal growth and academic focus. I successfully finished the McKinsey Adaptability & Resilience Module and made sure to sign up for the mandatory webinar. The module itself was incredibly insightful; it walked me through practical techniques like the APR framework and the habit loop of cue, routine, and reward. It really helped clarify my vision on several core concepts and opened my mind to entirely new perspectives. I also spent some solid time solving physics questions to make sure I am fully prepared and confident for my second midterm exam.
