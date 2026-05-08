@@ -98,3 +98,6 @@ Today was an absolute marathon, but I honestly survived it. I was on campus for 
 
 **Day 6**
 Today was a productive day of both personal growth and academic focus. I successfully finished the McKinsey Adaptability & Resilience Module and made sure to sign up for the mandatory webinar. The module itself was incredibly insightful; it walked me through practical techniques like the APR framework and the habit loop of cue, routine, and reward. It really helped clarify my vision on several core concepts and opened my mind to entirely new perspectives. I also spent some solid time solving physics questions to make sure I am fully prepared and confident for my second midterm exam.
+
+**Day 7**
+No resting nor recharging. I have a physics second mid-term exam tomorrow. I have prepared for it by solving the assignments again. I have also finished all the Graph Theory modules till Paths in Discrete. I will start reading papers and surveys on the specific topic that I am going to encounter, which is (Biological Networks). 
