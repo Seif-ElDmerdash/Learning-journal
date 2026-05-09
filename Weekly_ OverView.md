@@ -19,3 +19,7 @@ I'm calling this 'university week' because I was on campus almost every day from
 ## WEEK 4
 
 Again, another week with no self-study only the 1D Array lecture + practice problems (Assignment problems left), but I finished my tasks on 3 projects: Biochem. (Lecture and Lab) projects and the C++ one. My intention is to start working on the discrete project next week + helping my colleuges on their remaining tasks.
+
+## WEEK 5
+
+I have finished the discrete course in addition of mastering the Graph theory. I have managed to smoothly ace The Physics Exams Week (Final lab, Quiz 3 and The Second Mid-Term). I have deciphered how the C++ pointers and Dynamic memory work together and reached finally to that "aha" moment, which is an absolute satisfaction. I have finished the McKinsey Adaptability & Resilience Module. It was a Decent Week.
