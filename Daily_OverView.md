@@ -101,3 +101,8 @@ Today was a productive day of both personal growth and academic focus. I success
 
 **Day 7**
 No resting nor recharging. I have a physics second mid-term exam tomorrow. I have prepared for it by solving the assignments again. I have also finished all the Graph Theory modules till Paths in Discrete. I will start reading papers and surveys on the specific topic that I am going to encounter, which is (Biological Networks). 
+
+## *Week 6*
+
+**Day 1**
+I have taken the physics mid-term Exam. Thanks god, I did absolutely well. Tomorrow is the Discrete third quiz. I will distribute the discrete project tasks and I hope we start working. 
