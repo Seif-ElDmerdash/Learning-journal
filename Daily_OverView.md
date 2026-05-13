@@ -99,3 +99,16 @@ No resting nor recharging. I have a Physics second midterm exam tomorrow. I have
 
 **Day 1**
 I have taken the Physics midterm exam. Thank God, I did absolutely well. Tomorrow is the third discrete quiz. I will distribute the discrete project tasks, and I hope we start working.
+
+**Day 2**
+I have had the discrete quiz, and studied for calculas quiz. I worked on the Biochemisty Final lab project. I have made the report and the presentation
+
+**Day 3**
+I had a the Calculas Quiz. I have smashed the Project and got the full mark. I have worked the on the Biochemistry Final Lecture project.
+
+**Day 4**
+I kept working on the Report documentation and paper citations, and understanding the topic.
+
+**Day 5**
+I have perfectly presented the project and got the full mark smoothly.
+We have started working on the discrete project. I have got the theoretical part. I have finished 30% of my task.
