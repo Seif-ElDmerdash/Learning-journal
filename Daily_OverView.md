@@ -112,3 +112,6 @@ I kept working on the Report documentation and paper citations, and understandin
 **Day 5**
 I have perfectly presented the project and got the full mark smoothly.
 We have started working on the discrete project. I have got the theoretical part. I have finished 30% of my task.
+
+**Day 6**
+I finally finished the discrete project task. I helped my colleague who is wokring on the code implementation. We have made a Simple directed graph for the central dogma out of 6 nodes, but we are going to dive more deeply and make a more complex graph with complexity O(V^2).
