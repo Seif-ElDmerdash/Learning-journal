@@ -115,3 +115,6 @@ We have started working on the discrete project. I have got the theoretical part
 
 **Day 6**
 I finally finished the discrete project task. I helped my colleague who is wokring on the code implementation. We have made a Simple directed graph for the central dogma out of 6 nodes, but we are going to dive more deeply and make a more complex graph with complexity O(V^2).
+
+**Day 7**
+We finally finished the Discrete project. I checked on the code, it runs and give the correct graph and path. I finished the Report. Everything got handled.
