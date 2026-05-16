@@ -118,3 +118,8 @@ I finally finished the discrete project task. I helped my colleague who is wokri
 
 **Day 7**
 We finally finished the Discrete project. I checked on the code, it runs and give the correct graph and path. I finished the Report. Everything got handled.
+
+## *Week 7*
+
+**Day 1**
+I have finally finished the 2 concret projects; The Discrete project and The C++ one. me and my colleagues have finished the presentation and recorded it. I have finished the C++ logic/algorithm making and binding, I checked every edge case and resolved every bug. I have absolutely nailed it.
