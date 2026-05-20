@@ -123,3 +123,15 @@ We finally finished the Discrete project. I checked on the code, it runs and giv
 
 **Day 1**
 I have finally finished the 2 concret projects; The Discrete project and The C++ one. me and my colleagues have finished the presentation and recorded it. I have finished the C++ logic/algorithm making and binding, I checked every edge case and resolved every bug. I have absolutely nailed it.
+
+**Day 2**
+I was preparing for the discrete discussion.
+
+**Day 3**
+I rewatched some lectures in the C++ course.
+
+**Day 4**
+I rewatched the Array lecture and some loops Questions discussions/QA videos.
+
+**Day 5**
+I have discussed the 2 projects: C++ and Discrete. I have got the full mark in both projects, We were too good that the instructors didn't even need to discuss with anything about the projects. 
