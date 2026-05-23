@@ -134,4 +134,10 @@ I rewatched some lectures in the C++ course.
 I rewatched the Array lecture and some loops Questions discussions/QA videos.
 
 **Day 5**
-I have discussed the 2 projects: C++ and Discrete. I have got the full mark in both projects, We were too good that the instructors didn't even need to discuss with anything about the projects. 
+I have discussed the 2 projects: C++ and Discrete. I have got the full mark in both projects, We were too good that the instructors didn't even need to discuss with anything about the projects.
+
+**Day 6**
+I have been problem solving all day on 1D Array
+
+**Day 7**
+I have cleaned and reorganizes my whole room. I applied on 3 internships along the whole summer. Resting and Recharging.
