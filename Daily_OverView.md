@@ -141,3 +141,8 @@ I have been problem solving all day on 1D Array
 
 **Day 7**
 I have cleaned and reorganizes my whole room. I applied on 3 internships along the whole summer. Resting and Recharging.
+
+## *Week 8*
+
+**Day 1**
+I have solved some medium problems on the 1D Array.
