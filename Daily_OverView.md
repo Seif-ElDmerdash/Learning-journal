@@ -146,3 +146,21 @@ I have cleaned and reorganizes my whole room. I applied on 3 internships along t
 
 **Day 1**
 I have solved some medium problems on the 1D Array.
+
+**Day 2**
+I have solved the Easy-Problems on Char Array
+
+**Day 3**
+I have solved the Medium-Problems Char Array and Easy-Problems on Multidimensional Array
+
+**Day 4**
+I have watched the strcut,pointers and OOP intro
+
+**Day 5**
+I took it off, because it was Eid.
+
+**Day 6**
+I divied into the constructors till the inheritance.
+
+**Day 7**
+I have finished the polymorphisim and operator overloading. I am practicing all the syntax and logic; preparing for the final exam.
