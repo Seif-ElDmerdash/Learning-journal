@@ -164,3 +164,11 @@ I divied into the constructors till the inheritance.
 
 **Day 7**
 I have finished the polymorphisim and operator overloading. I am practicing all the syntax and logic; preparing for the final exam.
+
+## *Week 9*
+
+**Day 1**
+I have solved the the final exam revision, it consists of OOP problems, tracing and coding.
+
+**Day 2**
+I have coded a little bit and practiced some syntax on copy constructor and operator overloading.

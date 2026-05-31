@@ -29,3 +29,6 @@ This week was a highly productive stretch of academic and project milestones, ki
 
 ## WEEK 7
 This week wasn't like the rest. It was only dedicated for the projects disscusions. I finished the report, presentation and C++ code. I have recorded the discrete presentation. Both projects have been discussed with full mark. I rewatched loops and 1D array lectures, and applied one them.
+
+## WEEK 8
+This week was only about C++ course, I have learned 1D, Char and Multidimensional Array. I have watched the OOP playlist, in addition of pointers and struct. I have practiced for the final exams.
