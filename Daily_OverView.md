@@ -172,3 +172,12 @@ I have solved the the final exam revision, it consists of OOP problems, tracing 
 
 **Day 2**
 I have coded a little bit and practiced some syntax on copy constructor and operator overloading.
+
+**Day 3**
+I took the exam It was great.
+
+**Day 4**
+I took the first 3 modules in Problem-Solving of the Mckinsey Forwad program.
+
+**Day 5**
+I took Module 4 in the Problem-Solving part.
