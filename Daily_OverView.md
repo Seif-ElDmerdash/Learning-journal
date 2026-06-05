@@ -181,3 +181,6 @@ I took the first 3 modules in Problem-Solving of the Mckinsey Forwad program.
 
 **Day 5**
 I took Module 4 in the Problem-Solving part.
+
+**Day 6**
+I have rewatched 4 discrete lectures as a refreshment to prepare for the final exam.
