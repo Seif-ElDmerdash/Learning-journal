@@ -191,10 +191,11 @@ I have finshed the Problem-Solving Module in the McKinsey Program and solved the
 ## *Week 10*
 
 **Day 1**
-I studied Calculas (Analytical Geometery till Parapola)
+I studied Calculas (Analytical Geometery till Parapola).
 
 **Day 2**
-I have studied Physics finished half the Materials and solved from Magnetic field till Gauss Law.
+I have studied Physics and finished half the Materials and solved from Magnetic field till Gauss Law.
 
 **Day 3**
-I have started the Communicating for Impact course in McKinsey Forward Program till Module 4
+I have started the Communicating for Impact course in McKinsey Forward Program till Module 4.
+I have solved the Physics assignments from 1 to 4.
