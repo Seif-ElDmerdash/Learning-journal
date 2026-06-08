@@ -184,3 +184,17 @@ I took Module 4 in the Problem-Solving part.
 
 **Day 6**
 I have rewatched 4 discrete lectures as a refreshment to prepare for the final exam.
+
+**Day 7**
+I have finshed the Problem-Solving Module in the McKinsey Program and solved the Case Assignment: The Hustleton Traffic Problem assignment.
+
+## *Week 10*
+
+**Day 1**
+I studied Calculas (Analytical Geometery till Parapola)
+
+**Day 2**
+I have studied Physics finished half the Materials and solved from Magnetic field till Gauss Law.
+
+**Day 3**
+I have started the Communicating for Impact course in McKinsey Forward Program till Module 4
