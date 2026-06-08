@@ -32,3 +32,6 @@ This week wasn't like the rest. It was only dedicated for the projects disscusio
 
 ## WEEK 8
 This week was only about C++ course, I have learned 1D, Char and Multidimensional Array. I have watched the OOP playlist, in addition of pointers and struct. I have practiced for the final exams.
+
+## WEEK 9
+Finals Weeks nothing much no self-learning, just revising and studying for the finals
