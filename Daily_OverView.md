@@ -199,3 +199,9 @@ I have studied Physics and finished half the Materials and solved from Magnetic 
 **Day 3**
 I have started the Communicating for Impact course in McKinsey Forward Program till Module 4.
 I have solved the Physics assignments from 1 to 4.
+
+**Day 4**
+I have solve all the assignment again from 1 to 10 and solved final exams from the archive.
+
+**Day 5**
+I took the Physics Final exam it was great, and I finished the Communicating for Impact course McKinsey Forward Program.
