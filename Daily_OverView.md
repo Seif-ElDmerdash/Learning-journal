@@ -205,3 +205,29 @@ I have solve all the assignment again from 1 to 10 and solved final exams from t
 
 **Day 5**
 I took the Physics Final exam it was great, and I finished the Communicating for Impact course McKinsey Forward Program.
+
+**Day 6**
+I studied for the Biochemistry and discrete finals
+
+**Day 7**
+I kept revising discrete
+
+## *Week 11*
+
+**Day 1**
+Final day of revising discrete and biochemistry
+
+**Day 2**
+I took the biochemistry Exam it was too good. I revised on discrete
+
+**Day 3**
+I took the discrete exam, I can smell an A+. I went back and grinded for the Calculus 1 exam
+
+**Day 4**
+I revised on the Analytical Geometry. I kept solving problems for 12 hours.
+
+**Day 5**
+I took the Calculus 1 exam. I had only 1 question that I couldn't solve, but it is an A+. 
+And I finally got the holiday.
+**Day 6**
+I am revising on Python for tomorrow's exam, because I have got accepted on the entry level for The Samsung Internship.
