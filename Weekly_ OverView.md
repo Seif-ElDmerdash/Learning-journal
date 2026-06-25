@@ -36,3 +36,6 @@ Finals, Finals, Finals.
 
 ## WEEK 11
 Finals, Finals, Finals then holiday and interships exams.
+
+## WEEK 12
+BREAK WEEK AFTER FINALS! Preparing for the Summer work.

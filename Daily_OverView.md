@@ -229,5 +229,29 @@ I revised on the Analytical Geometry. I kept solving problems for 12 hours.
 **Day 5**
 I took the Calculus 1 exam. I had only 1 question that I couldn't solve, but it is an A+. 
 And I finally got the holiday.
+
 **Day 6**
 I am revising on Python for tomorrow's exam, because I have got accepted on the entry level for The Samsung Internship.
+
+**Day 7**
+I have taken the exam.
+
+## *Week 12*
+
+**Day 1**
+Break.
+
+**Day 2**
+Took the DEPI Acceptance Exam.
+
+**Day 3 / Day 4**
+Break.
+
+**Day 5**
+Took McKinsey Relationship and Well-being Course.
+
+**Day 6**
+Took McKinsey Digital Toolkit Course, and by that I have finished the whole Program and I earned the Badge and certification.
+
+**Day 7**
+Break.
