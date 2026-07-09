@@ -255,3 +255,11 @@ Took McKinsey Digital Toolkit Course, and by that I have finished the whole Prog
 
 **Day 7**
 Break.
+
+## Summer Work starts here
+
+## *Week 1*
+Total break
+
+## *Week 2*
+starts on light practicing and refreshing the memory

@@ -39,3 +39,11 @@ Finals, Finals, Finals then holiday and interships exams.
 
 ## WEEK 12
 BREAK WEEK AFTER FINALS! Preparing for the Summer work.
+
+## Summer Work starts here
+
+## WEEK 1 
+TOTAL BREAK
+
+## WEEK 2
+starts on light practicing and refreshing the memory
