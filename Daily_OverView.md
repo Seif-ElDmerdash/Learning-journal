@@ -263,3 +263,20 @@ Total break
 
 ## *Week 2*
 starts on light practicing and refreshing the memory
+
+## *Week 3*
+
+**Day 1**
+I have fininshed functions/Recursion Lectures applied on them and solved the assignments.
+
+**Day 2**
+
+**Day 3**
+
+**Day 4**
+
+**Day 5**
+
+**Day 6**
+
+**Day 7**
