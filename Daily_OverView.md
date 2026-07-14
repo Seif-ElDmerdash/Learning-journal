@@ -270,10 +270,13 @@ starts on light practicing and refreshing the memory
 I have fininshed functions/Recursion Lectures applied on them and solved the assignments.
 
 **Day 2**
+I was feeling burned out, so I took the day free.
 
 **Day 3**
+I attended a meeting with the TA., so I can understand more about the research team and how to enroll in it.
 
 **Day 4**
+I am working on the The Hospital system project in C++.
 
 **Day 5**
 
