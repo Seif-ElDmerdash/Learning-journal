@@ -279,6 +279,7 @@ I attended a meeting with the TA., so I can understand more about the research t
 I am working on the The Hospital system project in C++.
 
 **Day 5**
+I attended another meeting to continue our discussion. I took structures lecture in C++
 
 **Day 6**
 
