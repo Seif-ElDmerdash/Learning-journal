@@ -282,5 +282,6 @@ I am working on the The Hospital system project in C++.
 I attended another meeting to continue our discussion. I took structures lecture in C++
 
 **Day 6**
+I have finished structures, uniform intilization and templates in C++
 
 **Day 7**
