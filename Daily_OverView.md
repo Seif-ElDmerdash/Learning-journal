@@ -285,3 +285,26 @@ I attended another meeting to continue our discussion. I took structures lecture
 I have finished structures, uniform intilization and templates in C++
 
 **Day 7**
+Break
+
+## *Week 4*
+
+**Day 1**
+I went to the Gym, Solved on STLs
+
+**Day 2**
+
+
+**Day 3**
+
+
+**Day 4**
+
+
+**Day 5**
+
+
+**Day 6**
+
+
+**Day 7**
