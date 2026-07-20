@@ -290,13 +290,13 @@ Break
 ## *Week 4*
 
 **Day 1**
-I went to the Gym, Solved on STLs
+I went to the Gym, Solved on STLs.
 
 **Day 2**
-
+I practiced some STL syntax.
 
 **Day 3**
-
+I have implemented a Library system project.
 
 **Day 4**
 
