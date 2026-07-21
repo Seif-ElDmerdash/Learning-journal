@@ -299,7 +299,7 @@ I practiced some STL syntax.
 I have implemented a Library system project.
 
 **Day 4**
-
+I have taken STL lecture 2.
 
 **Day 5**
 
