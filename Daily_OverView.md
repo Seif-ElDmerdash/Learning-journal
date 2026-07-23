@@ -302,9 +302,9 @@ I have implemented a Library system project.
 I have taken STL lecture 2.
 
 **Day 5**
-
+I have attended The SCU and got information about the program and track I want to apply in from the post-graduates and TAs.
 
 **Day 6**
-
+I have attended The SIC8 interview. I did pretty well.
 
 **Day 7**
